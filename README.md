@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 💻 Junior Software Engineer & Developer
 - 🌐 Full-Stack Development · Databases · Quality Assurance
-- 🤝 Team Leadership & Collaboration across Software, Robotics & Systems Engineering
+- 🤝 Team Leader & Collaborator across Software, Robotics & Systems Engineering
 - 🎓 B.S. Computer Science, Honors College — George Mason University, Spring 2026
 - 🎹 Pianist · 🎸 Bass Player · 🎮 Gamer · 📷 Photographer
 
