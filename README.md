@@ -11,6 +11,8 @@
 
 A selection of software engineering, AI, database, and systems projects developed through academic and personal work.
 
+---
+
 ### 🟡 Pacman AI
 
 **Python · Search Algorithms · Game AI · Reinforcement Learning**
@@ -18,6 +20,9 @@ A selection of software engineering, AI, database, and systems projects develope
 Implemented and analyzed classical AI techniques including DFS, BFS, UCS, A*, Minimax, Alpha-Beta Pruning, Expectimax, Value Iteration, Q-Learning, and Approximate Q-Learning.
 
 🔒 Private repository · 📸 Project screenshots below
+
+**Pac-Man A***
+<img width="1376" height="1510" alt="image" src="https://github.com/user-attachments/assets/b96fa728-fe2f-4f79-8de6-94a278047e65" />
 
 ---
 
