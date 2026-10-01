@@ -29,27 +29,13 @@ Implemented and analyzed classical AI techniques including DFS, BFS, UCS, A*, Mi
 <table>
   <tr>
     <td><b>Pac-Man A*</b><br><img src="https://github.com/user-attachments/assets/b96fa728-fe2f-4f79-8de6-94a278047e65" width="400"></td>
-    <td><img src="https://github.com/user-attachments/assets/d2296e2e-c788-4502-8cc3-ea0be9fa5fc6" width="400"></td>
+    <td><b>Pac-Man Alpha-Beta Pruning</b><br><img src="https://github.com/user-attachments/assets/d2296e2e-c788-4502-8cc3-ea0be9fa5fc6" width="400"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/d2296e2e-c788-4502-8cc3-ea0be9fa5fc6" width="400"></td>
-    <td><img src="https://github.com/user-attachments/assets/b96fa728-fe2f-4f79-8de6-94a278047e65" width="400"></td>
+    <td><b>Pac-Man Expectimax</b><br><img src="https://github.com/user-attachments/assets/5c65f7a4-4108-4d76-8566-9900b33758b3" width="400"></td>
+    <td><b>Pac-Man Corners</b><br><img src="https://github.com/user-attachments/assets/4db2d2a0-5dd3-48fe-bfa5-99f90308adcc" width="400"></td>
   </tr>
 </table>
-
-
-
-**Pac-Man A***
-<br>
-<img width="1376" height="1510" alt="image" src="https://github.com/user-attachments/assets/b96fa728-fe2f-4f79-8de6-94a278047e65" />
-
-**Pac-Man Alpha-Beta Pruning**
-<br>
-<img width="1408" height="762" alt="image" src="https://github.com/user-attachments/assets/d2296e2e-c788-4502-8cc3-ea0be9fa5fc6" />
-
-**Pac-Man Expectimax**
-<br>
-<img width="748" height="642" alt="image" src="https://github.com/user-attachments/assets/5c65f7a4-4108-4d76-8566-9900b33758b3" />
 
 ---
 
