@@ -26,6 +26,19 @@ Implemented and analyzed classical AI techniques including DFS, BFS, UCS, A*, Mi
 
 🔒 Private repository · 📸 Project screenshots below
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b96fa728-fe2f-4f79-8de6-94a278047e65" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/d2296e2e-c788-4502-8cc3-ea0be9fa5fc6" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d2296e2e-c788-4502-8cc3-ea0be9fa5fc6" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/b96fa728-fe2f-4f79-8de6-94a278047e65" width="200"></td>
+  </tr>
+</table>
+
+
+
 **Pac-Man A***
 <br>
 <img width="1376" height="1510" alt="image" src="https://github.com/user-attachments/assets/b96fa728-fe2f-4f79-8de6-94a278047e65" />
