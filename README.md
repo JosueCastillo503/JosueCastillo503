@@ -47,13 +47,18 @@ Designed and developed a relational database system for managing study-room rese
 
 🔒 Private repository · 📸 Project screenshots below
 
-**StudyRoom: Make Reservation**
-<br>
-<img width="347" height="295" alt="image" src="https://github.com/user-attachments/assets/d77abf19-ea05-4750-8236-47f2777b8df9" />
-
-**StudyRoom: Search Rooms**
-<br>
-<img width="480" height="395" alt="image" src="https://github.com/user-attachments/assets/198884e9-2e12-4197-b974-51154073e429" />
+<table>
+  <tr>
+    <td><b>StudyRoom: Make Reservation</b><br><img src="https://github.com/user-attachments/assets/d77abf19-ea05-4750-8236-47f2777b8df9" width="400"></td>
+    <td><b>StudyRoom: Search Rooms</b><br><img src="https://github.com/user-attachments/assets/198884e9-2e12-4197-b974-51154073e429" width="400"></td>
+  </tr>
+  <tr>
+    <td><b>StudyRoom: New User</b><br><img src="https://github.com/user-attachments/assets/c8a8f2a1-23d0-4007-9d68-48e148aff571"
+width="400"></td>
+    <td><b>StudyRoom: Leave A Review</b><br><img src="https://github.com/user-attachments/assets/83f228f9-4d26-480a-af00-961de494e626"
+width="400"></td>
+  </tr>
+</table>
 
 ---
 
