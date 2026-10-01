@@ -48,10 +48,6 @@ Designed and developed a relational database system for managing study-room rese
 
 🔒 Private repository · 📸 Project screenshots below
 
-**StudyRoom: Welcome**
-<br>
-<img width="507" height="319" alt="image" src="https://github.com/user-attachments/assets/948ff26e-e146-4f18-88e7-20359be74a0b" />
-
 **StudyRoom: Make Reservation**
 <br>
 <img width="347" height="295" alt="image" src="https://github.com/user-attachments/assets/d77abf19-ea05-4750-8236-47f2777b8df9" />
