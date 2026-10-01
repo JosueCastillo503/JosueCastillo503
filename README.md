@@ -27,12 +27,15 @@ Implemented and analyzed classical AI techniques including DFS, BFS, UCS, A*, Mi
 🔒 Private repository · 📸 Project screenshots below
 
 **Pac-Man A***
+<br>
 <img width="1376" height="1510" alt="image" src="https://github.com/user-attachments/assets/b96fa728-fe2f-4f79-8de6-94a278047e65" />
 
 **Pac-Man Alpha-Beta Pruning**
+<br>
 <img width="1408" height="762" alt="image" src="https://github.com/user-attachments/assets/d2296e2e-c788-4502-8cc3-ea0be9fa5fc6" />
 
 **Pac-Man Expectimax**
+<br>
 <img width="748" height="642" alt="image" src="https://github.com/user-attachments/assets/5c65f7a4-4108-4d76-8566-9900b33758b3" />
 
 ---
@@ -46,12 +49,15 @@ Designed and developed a relational database system for managing study-room rese
 🔒 Private repository · 📸 Project screenshots below
 
 **StudyRoom: Welcome**
+<br>
 <img width="507" height="319" alt="image" src="https://github.com/user-attachments/assets/948ff26e-e146-4f18-88e7-20359be74a0b" />
 
 **StudyRoom: Make Reservation**
+<br>
 <img width="347" height="295" alt="image" src="https://github.com/user-attachments/assets/d77abf19-ea05-4750-8236-47f2777b8df9" />
 
 **StudyRoom: Search Rooms**
+<br>
 <img width="480" height="395" alt="image" src="https://github.com/user-attachments/assets/198884e9-2e12-4197-b974-51154073e429" />
 
 ---
