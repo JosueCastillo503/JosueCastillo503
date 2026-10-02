@@ -70,6 +70,19 @@ Full-stack class note-sharing platform developed collaboratively. Worked across 
 
 🔒 Private repository · 📸 Project screenshots below
 
+
+<table>
+  <tr>
+    <td><b>HelpMeNote: Courses</b><br><img src="https://github.com/user-attachments/assets/651631ec-4441-4c03-ae6f-8ba8fb3bf45d" width="400"></td>
+    <td><b>HelpMeNote: Study Group</b><br><img src="https://github.com/user-attachments/assets/88be7c13-dfc7-45a7-81d8-79706621ab31" width="400"></td>
+  </tr>
+  <tr>
+    <td><b>HelpMeNote: Upload Notes</b><br><img src="https://github.com/user-attachments/assets/46423b39-0154-406b-9beb-a1a3cda71e96"
+width="400"></td>
+    <td><b>HelpMeNote: Generate Cheat Sheet</b><br><img src="https://github.com/user-attachments/assets/3104710f-25af-4fa2-8245-8c8b55c471c7" width="400"></td>
+  </tr>
+</table>
+
 ---
 
 ### 🖥️ Operating Systems — OS/161
